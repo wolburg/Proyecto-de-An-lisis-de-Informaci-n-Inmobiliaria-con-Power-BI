@@ -1,0 +1,2 @@
+# Proyecto-de-An-lisis-de-Informaci-n-Inmobiliaria-con-Power-BI
+Este proyecto genera un dashboard interactivo para el análisis de información de operaciones inmobiliarias, incluyendo alquileres y ventas de casas y departamentos en diferentes localidades europeas. El objetivo es proporcionar una herramienta visual que permita a los usuarios explorar y entender mejor el mercado inmobiliario en estas regiones.
